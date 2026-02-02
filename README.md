@@ -5,7 +5,7 @@
 Welcome to this hands-on course where we learn **electronics and PCB design by building**, not memorizing.  
 Each concept is taught through:
 1. 🎥 A short YouTube lesson  
-2. 🧠 A fun Google Form quiz and Projects 
+2. 🧠 A fun Google Form quiz and Projects  
 3. 🛠️ Gradual progress toward real-world PCB projects  
 
 No prior PCB experience required. Curiosity is mandatory.
@@ -22,16 +22,14 @@ By the end of this course, you will be able to:
 - Build confidence to design your own hardware products  
 
 ---
----
 
 ## 🧠 How to Use This Repository
 
 1. Start from Module 0  
 2. Watch the video  
 3. Complete the Google Form  
-4. Your Quiz Response will be recorded
-5. Upon completion of the course you will receive your certificate from IIM Calcutta Innovation Park Technology and Innovation Council
-  
+4. Your quiz response will be recorded  
+5. Upon completion of the course, you will receive your certificate from **IIM Calcutta Innovation Park Technology and Innovation Council**
 
 No rush. Consistency beats speed.
 
@@ -61,22 +59,21 @@ Each module contains:
 
 > Tick the boxes as you go. Progress is visible. Motivation stays high.
 
-###  Module 01: KiCAD introduction and Schematic
-- [ ] 🎥 KiCAD schematic. Adding & connecting components. Concept of Motors.  
-  👉 YouTube: `https://youtu.be/sUi2Qxr-qLg`  
+### Module 01: KiCad Introduction and Schematic
+- [ ] 🎥 KiCad schematic: adding & connecting components, concept of motors  
+  👉 YouTube: [https://youtu.be/sUi2Qxr-qLg](https://youtu.be/sUi2Qxr-qLg)  
 - [ ] 🧠 Quick Intro Quiz  
-  👉 Google Form: `https://forms.gle/B9tXAnUH5KxSJC677`
+  👉 Google Form: [https://forms.gle/B9tXAnUH5KxSJC677](https://forms.gle/B9tXAnUH5KxSJC677)
 
 ---
 
-### 📐 Module 2: Capacitors in PCB Design
-- [ ] 🎥 Concept of capacitors in PCB Design. Decoupling capacitors and Bulk Capacitors use cases. Electrolytic and ceramic use cases.   
-  👉 YouTube: `https://youtu.be/F-Uu2qh2c0g`  
+### 📐 Module 02: Capacitors in PCB Design
+- [ ] 🎥 Capacitors in PCB design: decoupling vs bulk capacitors, electrolytic vs ceramic use cases  
+  👉 YouTube: [https://youtu.be/F-Uu2qh2c0g](https://youtu.be/F-Uu2qh2c0g)  
 - [ ] 🧠 Quiz on Capacitors  
-  👉 Google Form: `LINK`
+  👉 Google Form: [LINK](LINK)
 
 ---
-
 
 ## 🏆 Certificate & Badge
 
@@ -93,7 +90,8 @@ Each module contains:
 
 I’ve also curated a **separate repository of PCB design resources**:
 
-👉 **Resources Repo:** `https://github.com/PragyanSenDeka/PCB-Design-Resources`
+👉 **Resources Repo:**  
+[https://github.com/PragyanSenDeka/PCB-Design-Resources](https://github.com/PragyanSenDeka/PCB-Design-Resources)
 
 ---
 
@@ -101,12 +99,14 @@ I’ve also curated a **separate repository of PCB design resources**:
 
 Learning hardware is more fun together.
 
-- 💬 Ask doubts
-- 🛠️ Share your PCBs
-- 🔍 Get feedback
+- 💬 Ask doubts  
+- 🛠️ Share your PCBs  
+- 🔍 Get feedback  
 
-👉 **Discord Community:** `https://discord.gg/nAwhF6Cb`
+👉 **Discord Community:**  
+[https://discord.gg/nAwhF6Cb](https://discord.gg/nAwhF6Cb)
 
+---
 
 ## ⭐ Support the Course
 
