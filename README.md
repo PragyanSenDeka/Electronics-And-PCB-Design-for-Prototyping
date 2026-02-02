@@ -1,6 +1,6 @@
 # ⚡ Electronics and PCB Design for Product Development
 
-> **A beginner-friendly, self-paced bootcamp to go from ideas → schematics → PCBs → real products**
+> **A beginner-friendly, self-paced certified course by IIM Calcutta Innovation Park Technology and Innovation Council**
 
 Welcome to this hands-on course where we learn **electronics and PCB design by building**, not memorizing.  
 Each concept is taught through:
@@ -29,8 +29,9 @@ By the end of this course, you will be able to:
 1. Start from Module 0  
 2. Watch the video  
 3. Complete the Google Form  
-4. Tick the checkbox  
-5. Move forward 🚀  
+4. Your Quiz Response will be recorded
+5. Upon completion of the course you will receive your certificate from IIM Calcutta Innovation Park Technology and Innovation Council
+  
 
 No rush. Consistency beats speed.
 
@@ -92,7 +93,7 @@ Each module contains:
 
 I’ve also curated a **separate repository of PCB design resources**:
 
-👉 **Resources Repo:** `ADD YOUR GITHUB LINK HERE`
+👉 **Resources Repo:** `https://github.com/PragyanSenDeka/PCB-Design-Resources`
 
 ---
 
