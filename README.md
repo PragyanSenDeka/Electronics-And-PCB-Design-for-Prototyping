@@ -1,4 +1,4 @@
-# ⚡ Electronics and PCB Design for Product Development
+#  Electronics and PCB Design for Product Development
 
 > **A beginner-friendly, self-paced certified course by IIM Calcutta Innovation Park Technology and Innovation Council**
 
@@ -12,7 +12,7 @@ No prior PCB experience required. Curiosity is mandatory.
 
 ---
 
-## 🚀 What You’ll Learn
+##  What You’ll Learn
 
 By the end of this course, you will be able to:
 
@@ -57,7 +57,7 @@ Each module contains:
 
 ## 🧭 Course Roadmap
 
-> Tick the boxes as you go. Progress is visible. Motivation stays high.
+
 
 ### Module 01: KiCad Introduction and Schematic
 - [ ] 🎥 KiCad schematic: adding & connecting components, concept of motors  
