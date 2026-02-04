@@ -49,7 +49,7 @@ Each module contains:
 - KiCad schematic: adding & connecting components, concept of motors  
   Session Link: [https://youtu.be/sUi2Qxr-qLg](https://youtu.be/sUi2Qxr-qLg)  
 - Quick Intro Quiz  
-  Quiz Link: [https://forms.gle/B9tXAnUH5KxSJC677](https://forms.gle/B9tXAnUH5KxSJC677)
+  Quiz Link: [Quiz 1](https://forms.gle/BZ6pVjxAcr1arZNd8)
 
 ---
 
