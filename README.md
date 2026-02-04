@@ -23,23 +23,13 @@ By the end of this course, you will be able to:
 
 ---
 
-## 🧠 How to Use This Repository
+##  How to Use This Repository
 
 1. Start from Module 0  
 2. Watch the video  
 3. Complete the Google Form  
 4. Your quiz response will be recorded  
 5. Upon completion of the course, you will receive your certificate from **IIM Calcutta Innovation Park Technology and Innovation Council**
-
-No rush. Consistency beats speed.
-
----
-
-## 🧰 Tools Used
-
-- 🟢 **KiCad** – Schematic & PCB design  
-- 🔵 **LTspice** – Circuit simulation  
-- 💻 Any OS (Windows / Linux / macOS)
 
 ---
 
