@@ -98,15 +98,6 @@ Learning hardware is more fun together.
 
 ---
 
-## ⭐ Support the Course
-
-If this repo helps you:
-- ⭐ Star this repository  
-- 🔁 Share it with fellow learners  
-- 🧠 Build something awesome
-
----
-
 ## 📜 License
 
 This course content is for **learning and personal use**.  
@@ -114,4 +105,4 @@ Please do not redistribute videos or forms without permission.
 
 ---
 
-**Happy designing. May your traces be short and your grounds be solid. 🧠⚡**
+**Happy Tinkering**
