@@ -33,7 +33,7 @@ By the end of this course, you will be able to:
 
 ---
 
-## 📦 Course Structure
+##  Course Structure
 
 Each module contains:
 - 1 YouTube video  
@@ -43,58 +43,47 @@ Each module contains:
 
 ---
 
-## 🧭 Course Roadmap
+##  Course Roadmap
 
 ### Module 01: KiCad Introduction and Schematic
-- [ ] 🎥 KiCad schematic: adding & connecting components, concept of motors  
-  👉 YouTube: [https://youtu.be/sUi2Qxr-qLg](https://youtu.be/sUi2Qxr-qLg)  
-- [ ] 🧠 Quick Intro Quiz  
-  👉 Google Form: [https://forms.gle/B9tXAnUH5KxSJC677](https://forms.gle/B9tXAnUH5KxSJC677)
+- KiCad schematic: adding & connecting components, concept of motors  
+  Session Link: [https://youtu.be/sUi2Qxr-qLg](https://youtu.be/sUi2Qxr-qLg)  
+- Quick Intro Quiz  
+  Quiz Link: [https://forms.gle/B9tXAnUH5KxSJC677](https://forms.gle/B9tXAnUH5KxSJC677)
 
 ---
 
-### 📐 Module 02: Capacitors in PCB Design
-- [ ] 🎥 Capacitors in PCB design: decoupling vs bulk capacitors, electrolytic vs ceramic use cases  
-  👉 YouTube: [https://youtu.be/F-Uu2qh2c0g](https://youtu.be/F-Uu2qh2c0g)  
-- [ ] 🧠 Quiz on Capacitors  
-  👉 Google Form: [LINK](LINK)
+###  Module 02: Capacitors in PCB Design
+- Capacitors in PCB design: decoupling vs bulk capacitors, electrolytic vs ceramic use cases  
+  YouTube: [https://youtu.be/F-Uu2qh2c0g](https://youtu.be/F-Uu2qh2c0g)  
+- Quiz on Capacitors  
+- Quiz Link: [LINK](LINK)
 
 ---
 
-## 🏆 Certificate & Badge
-
-🎉 Complete all modules and the final project to earn:
-
-- 📜 **Certificate of Completion**
-- 🏅 **Digital Badge** (LinkedIn / Portfolio friendly)
-
-> Certificates are issued after successful project review.
-
----
-
-## 📚 Extra Learning Resources
+##  Extra Learning Resources
 
 I’ve also curated a **separate repository of PCB design resources**:
 
-👉 **Resources Repo:**  
+ **Resources Repo:**  
 [https://github.com/PragyanSenDeka/PCB-Design-Resources](https://github.com/PragyanSenDeka/PCB-Design-Resources)
 
 ---
 
-## 🤝 Community & Support
+##  Community & Support
 
 Learning hardware is more fun together.
 
-- 💬 Ask doubts  
-- 🛠️ Share your PCBs  
-- 🔍 Get feedback  
+-  Ask doubts  
+-  Share your PCBs  
+-  Get feedback  
 
-👉 **Discord Community:**  
+ **Discord Community:**  
 [https://discord.gg/nAwhF6Cb](https://discord.gg/nAwhF6Cb)
 
 ---
 
-## 📜 License
+##  License
 
 This course content is for **learning and personal use**.  
 Please do not redistribute videos or forms without permission.
