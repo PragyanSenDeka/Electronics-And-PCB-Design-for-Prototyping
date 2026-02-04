@@ -3,11 +3,6 @@
 > **A beginner-friendly, self-paced certified course by IIM Calcutta Innovation Park Technology and Innovation Council**
 
 Welcome to this hands-on course where we learn **electronics and PCB design by building**, not memorizing.  
-Each concept is taught through:
-1. 🎥 A short YouTube lesson  
-2. 🧠 A fun Google Form quiz and Projects  
-3. 🛠️ Gradual progress toward real-world PCB projects  
-
 No prior PCB experience required. Curiosity is mandatory.
 
 ---
@@ -19,35 +14,36 @@ By the end of this course, you will be able to:
 - Understand core electronics concepts used in real products  
 - Design schematics and PCBs using **KiCad**  
 - Apply good PCB design practices (not just “it works”)  
-- Build confidence to design your own hardware products  
+- Build confidence to design your own hardware prototypes  
 
 ---
 
-##  How to Use This Repository
+##  How to Get Certificate
 
-1. Start from Module 0  
+1. Start from Module 1  
 2. Watch the video  
-3. Complete the Google Form  
-4. Your quiz response will be recorded  
-5. Upon completion of the course, you will receive your certificate from **IIM Calcutta Innovation Park Technology and Innovation Council**
+3. Submit the short Quiz / Project file if mentioned  
+5. Your quiz response will be recorded  
+6. Upon completion of all the modules and Quizzes, your projects will be evaluated.
+7. Soft copy of certificate will be sent via email by **IIM Calcutta Innovation Park Technology & Innovation Council**
+8. **BONUS** Active participants with good projects will get the opportunity to fabricate their projects & prototypes funded by IIMCIP TIC
+9. All modules and projects must be submitted by the participants via the google forms to obtain their certificates
+10. Queries will be addressed in Discord Server **Discord Community:**  
+[https://discord.gg/nAwhF6Cb](https://discord.gg/nAwhF6Cb)
 
 ---
 
 ## 📦 Course Structure
 
-- 🧩 **Beginner friendly**
-- 🕒 **Self-paced**
-- 🛠️ **Project-based**
-
 Each module contains:
 - 1 YouTube video  
 - 1 Google Form (MCQs, fun challenges, or submissions)
+- Lesson Summary PDF
+- LIVE Session for doubt clearing. Date & Time will be communicated in Discord. [https://discord.gg/nAwhF6Cb](https://discord.gg/nAwhF6Cb)
 
 ---
 
 ## 🧭 Course Roadmap
-
-
 
 ### Module 01: KiCad Introduction and Schematic
 - [ ] 🎥 KiCad schematic: adding & connecting components, concept of motors  
