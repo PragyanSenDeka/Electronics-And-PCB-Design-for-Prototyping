@@ -45,9 +45,14 @@ Each module contains:
 
 ##  Course Roadmap
 
+
 ### Module 01: KiCad Introduction and Schematic
-- KiCad schematic: adding & connecting components, concept of motors  
-  Session Link: [https://youtu.be/sUi2Qxr-qLg](https://youtu.be/sUi2Qxr-qLg)  
+
+[![KiCad Introduction](https://img.youtube.com/vi/sUi2Qxr-qLg/0.jpg)](https://youtu.be/sUi2Qxr-qLg)
+
+- Quick Intro Quiz  
+- [Quiz 1](https://forms.gle/BZ6pVjxAcr1arZNd8)
+ 
 - Quick Intro Quiz  
   Quiz Link: [Quiz 1](https://forms.gle/BZ6pVjxAcr1arZNd8)
 
