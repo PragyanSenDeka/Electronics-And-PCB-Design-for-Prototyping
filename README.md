@@ -3,7 +3,7 @@
 > **A beginner-friendly, self-paced certified course by IIM Calcutta Innovation Park Technology and Innovation Council**
 
 Welcome to this hands-on course where we learn **electronics and PCB design by building**, not memorizing.  
-No prior PCB experience required. Curiosity is mandatory.
+No prior PCB experience required.
 
 ---
 
