@@ -50,7 +50,9 @@ Each module contains:
 
 [![KiCad Introduction](https://img.youtube.com/vi/sUi2Qxr-qLg/0.jpg)](https://youtu.be/sUi2Qxr-qLg)
 
-- Quick Intro Quiz  
+- YouTube: [https://youtu.be/sUi2Qxr-qLg](https://youtu.be/sUi2Qxr-qLg) 
+
+- Quiz  
 - [Quiz 1](https://forms.gle/BZ6pVjxAcr1arZNd8)
  
 - Quick Intro Quiz  
