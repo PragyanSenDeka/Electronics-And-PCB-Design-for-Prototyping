@@ -58,10 +58,19 @@ Each module contains:
 ---
 
 ###  Module 02: Capacitors in PCB Design
-- [![Capacitors in PCB Design](https://img.youtube.com/vi/F-Uu2qh2c0g/0.jpg)](https://youtu.be/F-Uu2qh2c0g)
+[![Capacitors in PCB Design](https://img.youtube.com/vi/F-Uu2qh2c0g/0.jpg)](https://youtu.be/F-Uu2qh2c0g)
   
 - YouTube: [https://youtu.be/F-Uu2qh2c0g](https://youtu.be/F-Uu2qh2c0g)  
 - Quiz on Capacitors  
+- Quiz Link: [LINK](LINK)
+
+---
+
+###  Module 03: Footprints in PCB Design
+[![Footprints in PCB Design](https://img.youtube.com/vi/g9Jo6z0WO3c/0.jpg)](https://youtu.be/g9Jo6z0WO3c)
+  
+- YouTube: [https://www.youtube.com/watch?v=g9Jo6z0WO3c](https://www.youtube.com/watch?v=g9Jo6z0WO3c)  
+- Quiz on Footprints  
 - Quiz Link: [LINK](LINK)
 
 ---
