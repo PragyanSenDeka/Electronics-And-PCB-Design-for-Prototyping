@@ -31,16 +31,6 @@ All the subsequent sessions comprises of projects built end to end. Project sess
 
 ---
 
-##  Course Structure
-
-Each module contains:
-- 1 YouTube video  
-- 1 Google Form (MCQs, fun challenges, or submissions)
-- Lesson Summary PDF
-- LIVE Session for doubt clearing. Date & Time will be communicated in Discord. [https://discord.gg/r7KCHzVpNW](https://discord.gg/r7KCHzVpNW)
-
----
-
 ##  Course Roadmap
 
 
