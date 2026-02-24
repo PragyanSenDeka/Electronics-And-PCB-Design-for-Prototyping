@@ -27,7 +27,7 @@ All the subsequent sessions comprises of projects built end to end. Project sess
 8. **BONUS** Active participants with good projects will get the opportunity to fabricate their projects & prototypes funded by IIMCIP TIC
 9. All modules and projects must be submitted by the participants via the google forms to obtain their certificates
 10. Queries will be addressed in Discord Server **Discord Community:**  
-[https://discord.gg/nAwhF6Cb](https://discord.gg/nAwhF6Cb)
+[https://discord.gg/r7KCHzVpNW](https://discord.gg/r7KCHzVpNW)
 
 ---
 
@@ -37,7 +37,7 @@ Each module contains:
 - 1 YouTube video  
 - 1 Google Form (MCQs, fun challenges, or submissions)
 - Lesson Summary PDF
-- LIVE Session for doubt clearing. Date & Time will be communicated in Discord. [https://discord.gg/nAwhF6Cb](https://discord.gg/nAwhF6Cb)
+- LIVE Session for doubt clearing. Date & Time will be communicated in Discord. [https://discord.gg/r7KCHzVpNW](https://discord.gg/r7KCHzVpNW)
 
 ---
 
@@ -91,7 +91,7 @@ Learning hardware is more fun together.
 -  Get feedback  
 
  **Discord Community:**  
-[https://discord.gg/nAwhF6Cb](https://discord.gg/nAwhF6Cb)
+[https://discord.gg/r7KCHzVpNW](https://discord.gg/r7KCHzVpNW)
 
 ---
 
