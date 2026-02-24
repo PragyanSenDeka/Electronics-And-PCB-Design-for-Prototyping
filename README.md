@@ -7,13 +7,12 @@
 ##  Course Format
 
 The first 4 sessions contains the basic concepts to get started with KiCAD.
-All the subsequent sessions comprises of projects built end to end.
+All the subsequent sessions comprises of projects built end to end. Project sessions will help you to : 
 
 
-- Understand core electronics concepts used in real products  
-- Design schematics and PCBs using **KiCad**  
-- Apply good PCB design practices (not just “it works”)  
-- Build confidence to design your own hardware prototypes  
+- Understand core electronics concepts used in real products    
+- Apply good PCB design practices  
+- Convert ideas to actual hardware 
 
 ---
 
