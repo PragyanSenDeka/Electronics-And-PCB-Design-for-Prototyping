@@ -59,7 +59,7 @@ All the subsequent sessions comprises of projects built end to end. Project sess
   
 - YouTube: [https://www.youtube.com/watch?v=g9Jo6z0WO3c](https://www.youtube.com/watch?v=g9Jo6z0WO3c)  
 - Quiz on Footprints  
-- Quiz Link: [LINK](LINK)
+- Quiz Link: [Quiz 3](https://forms.gle/oSW4BabZN5CgzU7L8)
 
 ---
 
