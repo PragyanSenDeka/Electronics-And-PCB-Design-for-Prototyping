@@ -50,7 +50,7 @@ All the subsequent sessions comprises of projects built end to end. Project sess
   
 - YouTube: [https://youtu.be/F-Uu2qh2c0g](https://youtu.be/F-Uu2qh2c0g)  
 - Quiz on Capacitors  
-- Quiz Link: [LINK](LINK)
+- Quiz Link: [LINK](https://forms.gle/yEJTgdCbJ2A2QvLP7)
 
 ---
 
