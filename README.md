@@ -63,6 +63,15 @@ All the subsequent sessions comprises of projects built end to end. Project sess
 
 ---
 
+###  Module 04: Routing in PCB Design
+[![Footprints in PCB Design](https://img.youtube.com/vi/3XK40I3CUfM/0.jpg)](https://youtu.be/3XK40I3CUfM)
+  
+- YouTube: [https://youtu.be/3XK40I3CUfM](https://youtu.be/3XK40I3CUfM)  
+- Quiz on Footprints  
+- Quiz Link: [Quiz 3](https://forms.gle/oSW4BabZN5CgzU7L8)
+
+---
+
 ##  Extra Learning Resources
 
 I’ve also curated a **separate repository of PCB design resources**:
