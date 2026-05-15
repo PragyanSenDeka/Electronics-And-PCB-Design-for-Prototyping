@@ -68,9 +68,38 @@ All the subsequent sessions comprises of projects built end to end. Project sess
   
 - YouTube: [https://youtu.be/3XK40I3CUfM](https://youtu.be/3XK40I3CUfM)  
 - Quiz on Footprints  
-- Quiz Link: [Quiz 3](https://forms.gle/NJ8HG6fBhY81cwKr6)
+- Quiz Link: [Quiz 4](https://forms.gle/NJ8HG6fBhY81cwKr6)
 
 ---
+
+###  Module 05: LIVE / recorded session - Recreating a Smart Table Lamp PCB
+[![Session Link]
+  
+- YouTube: [https://youtu.be/3XK40I3CUfM](https://youtu.be/3XK40I3CUfM)  
+- Quiz on Footprints  
+- Quiz Link: [Quiz 5](https://forms.gle/NJ8HG6fBhY81cwKr6)
+
+---
+
+###  Module 06: LIVE / recorded session - Recreating a Smart Table Lamp PCB
+[![Session Link]
+  
+- YouTube: [https://youtu.be/3XK40I3CUfM](https://youtu.be/3XK40I3CUfM)  
+- Quiz on Custom footprints  
+- Quiz Link: [Quiz 6](https://forms.gle/NJ8HG6fBhY81cwKr6)
+
+---
+
+###  Module 07: LIVE / recorded session - Custom ESP32 based 4 layer PCB Design.
+[![Session Link]
+  
+- YouTube: [https://youtu.be/3XK40I3CUfM](https://youtu.be/3XK40I3CUfM)  
+- Quiz  
+- Quiz Link: [Quiz 7](https://forms.gle/NJ8HG6fBhY81cwKr6)
+
+---
+
+
 
 ##  Extra Learning Resources
 
