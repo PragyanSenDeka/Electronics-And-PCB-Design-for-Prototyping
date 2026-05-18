@@ -72,7 +72,7 @@ All the subsequent sessions comprises of projects built end to end. Project sess
 
 ---
 
-###  Module 05: LIVE / recorded session - Recreating a Smart Table Lamp PCB
+###  Module 05: LIVE / recorded session - Recreating a Smart Table Lamp PCB Part 1
 [![Session Link]
   
 - YouTube: [https://youtu.be/3XK40I3CUfM](https://youtu.be/3XK40I3CUfM)  
@@ -81,7 +81,7 @@ All the subsequent sessions comprises of projects built end to end. Project sess
 
 ---
 
-###  Module 06: LIVE / recorded session - Recreating a Smart Table Lamp PCB
+###  Module 06: LIVE / recorded session - Recreating a Smart Table Lamp PCB Part 2
 [![Session Link]
   
 - YouTube: [https://youtu.be/3XK40I3CUfM](https://youtu.be/3XK40I3CUfM)  
